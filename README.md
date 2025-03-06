@@ -72,15 +72,6 @@ Tests ensure:
 
 ---
 
-## 🔥 Contribution Guide
-1. **Fork** the repository.
-2. Create a **feature branch**.
-3. **Commit** your changes.
-4. Open a **pull request** for review.
-
-For any issues, submit a **bug report** on GitHub.
-
----
 
 ## 📝 License
 This project is open-source and licensed under the **ISC License**.
