@@ -1,0 +1,22 @@
+{
+  "name": "secretsanta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "balakrishna",
+  "license": "ISC",
+  "description": "Secret Santa",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
