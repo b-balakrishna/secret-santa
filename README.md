@@ -38,7 +38,7 @@ Ensure you have the following installed:
 
 ### **Running the Application**
 1. Ensure you have an **employee list file** (CSV or Excel) in the project directory.
-2. Modify `index.js` to specify the correct file path.
+2. Modify `config.js` to specify the correct file path.
 3. Run the application:
    ```sh
    npm start
