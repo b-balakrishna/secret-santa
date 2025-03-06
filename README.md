@@ -83,7 +83,7 @@ For any issues, submit a **bug report** on GitHub.
 ---
 
 ## 📝 License
-This project is open-source and licensed under the **MIT License**.
+This project is open-source and licensed under the **ISC License**.
 
 ---
 
