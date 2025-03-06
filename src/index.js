@@ -2,16 +2,7 @@ const path = require("path");
 const fs = require("fs");
 const FileHandler = require("./FileHandler");
 const SecretSanta = require("./SecretSanta");
-
-const EMPLOYEE_FILE = path.join(__dirname, "../data/Employee-List.xlsx");
-const PREVIOUS_FILE = path.join(
-  __dirname,
-  "../data/Secret-Santa-Game-Result-2023.xlsx"
-);
-const OUTPUT_FILE = path.join(
-  __dirname,
-  "../data/Secret-Santa-Assignments-2024.xlsx"
-);
+const { EMPLOYEE_FILE, PREVIOUS_FILE, OUTPUT_FILE } = require("./config");
 
 try {
   // Check if input files exist
