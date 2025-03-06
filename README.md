@@ -41,7 +41,7 @@ Ensure you have the following installed:
 2. Modify `index.js` to specify the correct file path.
 3. Run the application:
    ```sh
-   node start
+   npm start
    ```
 
 ### **Expected Output**
